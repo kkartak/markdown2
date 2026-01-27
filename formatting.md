@@ -1,4 +1,6 @@
-# Documenting a simple program
+# Formatting in Markdown
+
+When you make a bullet list in Markdown, you can start each with `*` or `-`.
 
 ## Technical writers often need to create documentation that includes code samples.
 These code samples can include:
