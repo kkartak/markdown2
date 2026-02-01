@@ -94,3 +94,7 @@ Solar glass has a vast market potential because of its many applications and its
 
 ##### Notes: Some references were used for visual representation alone.
 
+# Closing statement on edits made with Markdown
+
+The hardest part was getting the images to crop without a ton of white space around them, since they were drawings made in Google Docs, but I figured it out by cropping the downloaded images as best I could. I used hashtags, underscores, and italics not only to create headings for each section of my paper, but also to indicate which headings were subheadings under each section's main topic. Additionally, I included a bulleted list, made sure the words lined up, and added subsection lists to the originals. The last thing I did was, though not necessary, practice adding links to the reference section. It was the only place that included standard links, so I messed with the website or company name part to add a clickable link as well.
+
