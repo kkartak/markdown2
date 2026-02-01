@@ -2,6 +2,8 @@
 
 ## **Solar Glass: A Better Alternative to Traditional Solar Panels?** 
 
+![Figure 1. A breakdown of the multiple layers of a traditional solar panel that allow it to convert and store energy(https://www.maysunsolar.com)](solarpanel.jpg)
+
 Glass solar panels are window panes that can turn sunlight into energy through photovoltaic (PV) cells. PV cells convert light into electricity just like a traditional solar panel does but with the bonus of being transparent(Mag, S, 2020). However, unlike the conventional solar panel, one doesn’t need to allocate land for the solar fields or mount it on your home's roof. This allows it to blend well into your home's aesthetic without giving up on your renewable energy dreams.
 
 This technical description informs readers of the differences between glass solar panels and their sister product, the solar panel. Additionally, how the glass panels function will be discussed in more detail later, along with their advantages over traditional solar panels and the countless applications solar glass has to offer.
