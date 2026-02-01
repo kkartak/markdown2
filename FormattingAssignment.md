@@ -80,21 +80,21 @@ Solar glass has a vast market potential because of its many applications and its
 
 ##### Brian. (2024, July 9). *What Are Solar Panels Made Of And How Do They Work? \- Professional Distributed PV Module Manufacturer*. Professional Distributed PV Module Manufacturer. [https://www.maysunsolar.com/blog-what-are-solar-panels-made-of-how-do-they-work/](https://www.maysunsolar.com/blog-what-are-solar-panels-made-of-how-do-they-work/)
 
-##### *ClearVue Technology | ClearVue PV*. (2024). ClearVue PV. [https://www.clearvuepv.com/resources/how-it-works/](https://www.clearvuepv.com/resources/how-it-works/) 
+##### *ClearVue Technology | ClearVue PV*. (2024). ClearVue PV. [ClearVue PV](https://www.clearvuepv.com/resources/how-it-works/) 
 
-##### Lozanova, S. (2022, October 3). *Transparent Solar Panels*. GreenLancer. [https://www.greenlancer.com/post/transparent-solar-panels](https://www.greenlancer.com/post/transparent-solar-panels) 
+##### Lozanova, S. (2022, October 3). *Transparent Solar Panels*. GreenLancer. [GreenLancer](https://www.greenlancer.com/post/transparent-solar-panels) 
 
-##### Mag, S. (2020, February 29). *Transparent Solar Panels: Reforming Future Energy Supply*. Solar  Magazine. [https://solarmagazine.com/solar-panels/transparent-solar-panels/](https://solarmagazine.com/solar-panels/transparent-solar-panels/)
+##### Mag, S. (2020, February 29). *Transparent Solar Panels: Reforming Future Energy Supply*. Solar  Magazine. [Solar Magazine](https://solarmagazine.com/solar-panels/transparent-solar-panels/)
 
 ##### *Solar Glass Panels: A Window to Sustainable Energy*. (n.d.). [Www.mitrex.com](http://Www.mitrex.com). [https://www.mitrex.com/blog/solar-glass-panels-a-window-to-sustainable-energy](https://www.mitrex.com/blog/solar-glass-panels-a-window-to-sustainable-energy) 
 
 ##### Stauffer, N. (2013, June 20). *Transparent solar cells*. Main. [https://energy.mit.edu/news/transparent-solar-cells/](https://energy.mit.edu/news/transparent-solar-cells/) 
 
-##### *The Coming “Glass Age,” Where Transparency Is Everywhere*. (2015, August 27). Worldcrunch. [https://worldcrunch.com/tech-science/the-coming-quotglass-agequot-where-transparency-is-everywhere](https://worldcrunch.com/tech-science/the-coming-quotglass-agequot-where-transparency-is-everywhere)
+##### *The Coming “Glass Age,” Where Transparency Is Everywhere*. (2015, August 27). Worldcrunch. [Worldcrunch](https://worldcrunch.com/tech-science/the-coming-quotglass-agequot-where-transparency-is-everywhere)
 
 ##### Notes: Some references were used for visual representation alone.
 
 # Closing statement on edits made with Markdown
 
-The hardest part was getting the images to crop without a ton of white space around them, since they were drawings made in Google Docs, but I figured it out by cropping the downloaded images as best I could. I used hashtags, underscores, and italics not only to create headings for each section of my paper, but also to indicate which headings were subheadings under each section's main topic. Additionally, I included a bulleted list, made sure the words lined up, and added subsection lists to the originals. The last thing I did was, though not necessary, practice adding links to the reference section. It was the only place that included standard links, so I messed with the website or company name part to add a clickable link as well.
+The hardest part was getting the images to crop without a ton of white space around them, since they were drawings made in Google Docs, but I figured it out by cropping the downloaded images as best I could. I used hashtags to indicate titles and headings, while underscores and italics were used to create a hierarchy for my paper's headings, indicating which headings were subheadings under each section's main topic. Additionally, I included a bulleted list, ensured the text was aligned, and added subsections to the originals. Another thing I did was, though not necessary, practice adding links to the reference section. It was the only place that included standard links, so I modified the website or company name field to add a clickable link as well. The final thing I worked on was breaking up the large blocks of text into smaller, more manageable chunks so people wouldn't feel bogged down by all the information being thrown at them at once. This helped it become more digestible without being so broken up that they would lose context or interest. Overall, I feel like Markdown was able to allow me to see the document for what it was, a scholastic article on the benefits of solar glass, without worrying too much over how it appeared to the audience. It let me appreciate more the effort I put into the writing and formatting alone. I'm quite proud of this piece.
 
