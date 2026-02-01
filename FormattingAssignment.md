@@ -12,11 +12,15 @@ This technical description informs readers of the differences between glass sola
 
 Solar panels can become transparent(defined as the ability to see through something with no obstruction to view) while retaining their light Absorption capabilities. Solar glass allows hundreds of new capabilities and environmentally conscious opportunities for the world. Not only can glass solar panels be used for Windows, but they can also be used for car sunroofs, Mobile devices, laptops, e-readers, and skyscrapers. It could turn every building in the world into a solar producer.
 
+![Figure 2. A visual of UV rays being absorbed and deflected to the PV cells lining the frame, still allowing the light to pass through(https://www.clearvuepv.com)](UVrays.jpg)
+
 ## **How Solar Glass Produces Electricity**
 
 The introduction of transparent luminescent solar concentrator(TLSC), an item designed to absorb specific wavelengths of invisible UV (Ultra Violet) and infrared light(Mag, S, 2020). Because those wavelengths can be transferred to the PV cells that line the edges of the window pane, the PV cells can be converted into electricity. The PV cells will allow the solar panels to function like a window (be transparent) while also producing electricity.
 
 ### ***How Each Layer Functions***
+
+![Figure 3. A visual side view of each layer of solar glass and the colors that can and can’t pass through its layers. Each layer is labeled visually showing how much it makes up of a single pane of solar glass(https://energy.mit.edu)](solarglassspectrum.jpg)
 
 Solar glass comprises five layers—7 if you add the optional AR(Anti-reflective) coating to both ends/sides of the surface (see Figure 3), reducing light reflection and allowing more light to pass through. The five required layers and their functions are as follows: 
 
@@ -53,6 +57,8 @@ Another bonus to glass solar panels is their versatility; they can come in vario
 The partially transparent panels absorb 60% of sunlight(Mag, S, 2020). Partially transparent window panes are ideal for south-facing buildings because reducing transmitted light is essential. Adjusting the values between the transmitted and absorbed light can optimize building performance (Many office buildings already do this by using traditionally tinted glass). Unfortunately, partially transparent comes with the drawback of the PV Cells only working at about 7.2% efficiency(Mag, S, 2020). The partially transparent windows come with the downside of producing less electricity overall. 
 
 ### ***Fully Transparent Panels***
+
+![Figure 4. A single panel of fully transparent solar glass(https://worldcrunch.com)](solarglass.jpg)
 
 However, if that doesn’t appeal to you, you can choose its alternative counterpart: the fully transparent panels. Unlike partial transparency, the full ones have an efficiency rate of 10%, a 2.8% difference(Mag, S, 2020). Moreover, compared to traditional solar panels that typically have an efficiency of 12%, they compensate for this through their potential size variations, allowing them to be incorporated into larger windows and offering a wider range of possible development despite their lower efficiency.
 
